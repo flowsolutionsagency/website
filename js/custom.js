@@ -267,8 +267,8 @@ $(document).ready(function() {
 
     $('.blog-slider02').owlCarousel({
         loop: true,
-        autoplay: true,
-        autoplayTimeout:2500,
+        autoplay: false,
+        autoplayTimeout:4000,
         margin: 40,
         dots: true,
         nav: false,
